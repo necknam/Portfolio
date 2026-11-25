@@ -4,7 +4,7 @@
 
 ## 포트폴리오와 SKN AI 캠프
 
-- 연구와 팀 프로젝트를 정리한 [포트폴리오 PDF](https://github.com/SKN-Project/Portfolio/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+- 연구와 팀 프로젝트를 정리한 [포트폴리오](https://github.com/SKN-Project/Portfolio)
 - 실습과 팀 프로젝트를 모아 둔 [SKN-Project 조직](https://github.com/SKN-Project) · [전체 저장소 목록](https://github.com/orgs/SKN-Project/repositories)
 
 ## 주요 프로젝트
